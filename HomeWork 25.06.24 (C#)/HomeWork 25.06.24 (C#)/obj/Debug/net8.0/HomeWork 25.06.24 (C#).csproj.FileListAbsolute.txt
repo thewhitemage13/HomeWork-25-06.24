@@ -1,0 +1,14 @@
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\bin\Debug\net8.0\HomeWork 25.06.24 (C#).exe
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\bin\Debug\net8.0\HomeWork 25.06.24 (C#).deps.json
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\bin\Debug\net8.0\HomeWork 25.06.24 (C#).runtimeconfig.json
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\bin\Debug\net8.0\HomeWork 25.06.24 (C#).dll
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\bin\Debug\net8.0\HomeWork 25.06.24 (C#).pdb
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\HomeWork 25.06.24 (C#).GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\HomeWork 25.06.24 (C#).AssemblyInfoInputs.cache
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\HomeWork 25.06.24 (C#).AssemblyInfo.cs
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\HomeWork 25.06.24 (C#).csproj.CoreCompileInputs.cache
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\HomeWork 25.06.24 (C#).dll
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\refint\HomeWork 25.06.24 (C#).dll
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\HomeWork 25.06.24 (C#).pdb
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\HomeWork 25.06.24 (C#).genruntimeconfig.cache
+D:\.Net\Class Work\HomeWork 25.06.24 (C#)\HomeWork 25.06.24 (C#)\obj\Debug\net8.0\ref\HomeWork 25.06.24 (C#).dll
